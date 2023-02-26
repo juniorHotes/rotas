@@ -1,0 +1,19 @@
+{
+    "name": "junior/rotas",
+    "description": "Rotas utilizando PHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juniorHotes",
+            "email": "juniorhotes53@gmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5"
+    }
+}
